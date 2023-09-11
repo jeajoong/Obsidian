@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인텔리제이 properties파일 대소문자 설정.md",
+                "file": "백준문제/Q10951.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c240537c9cbb887d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백준문제/Q11720.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텔리제이 properties파일 대소문자 설정.md",
+                "file": "백준문제/Q11720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텔리제이 properties파일 대소문자 설정.md",
+                "file": "백준문제/Q11720.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텔리제이 properties파일 대소문자 설정.md"
+                "file": "백준문제/Q11720.md"
               }
             }
           }
@@ -146,8 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ff252f171f808471",
+  "active": "c240537c9cbb887d",
   "lastOpenFiles": [
+    "백준문제/Q10951.md",
+    "백준문제/Q10952.md",
+    "백준문제/Q10953.md",
+    "백준문제/Q11021.md",
+    "백준문제/Q11022.md",
+    "백준문제/Q11718.md",
+    "백준문제/Q11719.md",
+    "백준문제/Q11720.md",
+    "백준문제/백준 코딩 문제 추천.md",
     "인텔리제이 주석 에러 끄기.md",
     "인텔리제이 자주쓰는 단축키.md",
     "인텔리제이 열린파일 표시설정.md"
