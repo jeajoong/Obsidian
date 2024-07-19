@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "377e14557b7a9b5a",
+        "id": "974265c0fab30ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "acdb83c6338afc2a",
+            "id": "cd40546c48380426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백준문제/Q11720.md",
+                "file": "백준문제/Q2446.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "백준문제/Q11720.md",
+                "file": "백준문제/Q2446.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "백준문제/Q11720.md",
+                "file": "백준문제/Q2446.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "백준문제/Q11720.md"
+                "file": "백준문제/Q2446.md"
+              }
+            }
+          },
+          {
+            "id": "aedd8c7dcf40c22c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -138,29 +150,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "acdb83c6338afc2a",
+  "active": "cd40546c48380426",
   "lastOpenFiles": [
-    "백준문제/Q10951.md",
+    "백준문제/Q2445.md",
+    "백준문제/Q2442.md",
+    "백준문제/Q2441.md",
+    "백준문제/Q2440.md",
+    "백준문제/Q2439.md",
+    "백준문제/Q2438.md",
+    "백준문제/Q1924.md",
+    "백준문제/Q2522.md",
+    "백준문제/Q2446.md",
+    "백준문제/Q11721.md",
     "백준문제/Q11720.md",
-    "포트 충돌.md",
-    "무제 폴더",
-    "백준문제/Q10952.md",
-    "백준문제/Q10953.md",
-    "백준문제/Q11021.md",
-    "백준문제/Q11022.md",
-    "백준문제/Q11718.md",
     "백준문제/Q11719.md",
-    "백준문제/백준 코딩 문제 추천.md",
-    "인텔리제이 주석 에러 끄기.md",
-    "인텔리제이 자주쓰는 단축키.md",
-    "인텔리제이 열린파일 표시설정.md"
+    "백준문제/Q11718.md",
+    "백준문제/Q11022.md",
+    "백준문제/Q11021.md",
+    "백준문제/Q10992.md",
+    "백준문제/Q10991.md",
+    "백준문제/Q10952.md",
+    "인프런_자바알고리즘/섹션3, 5.연속된자연수의 합(수학).md",
+    "인프런_자바알고리즘/섹션2, 5.소수(에라토스테네스 체).md",
+    "포트 충돌.md",
+    "인프런_자바알고리즘",
+    "인텔리제이_관련/인텔리제이 열린파일 표시설정.md",
+    "인텔리제이_관련/인텔리제이 자주쓰는 단축키.md",
+    "인텔리제이_관련/인텔리제이 properties파일 대소문자 설정.md",
+    "인텔리제이_관련/인텔리제이 주석 에러 끄기.md",
+    "테이블 설계 연습/테이블.md",
+    "무제 폴더"
   ]
 }
