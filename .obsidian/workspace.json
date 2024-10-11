@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발관련/그룹웨어 조직도 관련.md",
+                "file": "개발관련/스프링 관련.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발관련/그룹웨어 조직도 관련.md",
+                "file": "개발관련/스프링 관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발관련/그룹웨어 조직도 관련.md",
+                "file": "개발관련/스프링 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발관련/그룹웨어 조직도 관련.md"
+                "file": "개발관련/스프링 관련.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "cd40546c48380426",
   "lastOpenFiles": [
-    "JavaScript Patterns 책 내용 정리/기본.md",
     "개발관련/그룹웨어 조직도 관련.md",
+    "개발관련/스프링 관련.md",
+    "JavaScript Patterns 책 내용 정리/기본.md",
     "에러_이슈처리관련/jsp 반영 관련 이슈.md",
     "2024-08-23-11_56_18.png",
     "개발관련/js 이미지맵 기능 참고자료.md",
@@ -188,7 +189,6 @@
     "백준문제/Q8393.md",
     "백준문제/Q2522.md",
     "백준문제/Q2446.md",
-    "백준문제/Q2445.md",
     "인프런_자바알고리즘",
     "무제 폴더"
   ]
