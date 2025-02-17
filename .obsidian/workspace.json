@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "974265c0fab30ee8",
+        "id": "9f56bb87e3d624ee",
         "type": "tabs",
         "children": [
           {
-            "id": "cd40546c48380426",
+            "id": "795f12f54a9301e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발관련/스프링 관련.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발관련/스프링 관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발관련/스프링 관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발관련/스프링 관련.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -138,7 +153,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -158,10 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd40546c48380426",
+  "active": "795f12f54a9301e5",
   "lastOpenFiles": [
-    "개발관련/그룹웨어 조직도 관련.md",
+    "백준문제/프로그래머스/상담원 인원.md",
+    "백준문제/프로그래머스/인사고과.md",
     "개발관련/스프링 관련.md",
+    "백준문제/프로그래머스",
+    "개발관련/그룹웨어 조직도 관련.md",
     "JavaScript Patterns 책 내용 정리/기본.md",
     "에러_이슈처리관련/jsp 반영 관련 이슈.md",
     "2024-08-23-11_56_18.png",
@@ -187,8 +207,6 @@
     "백준문제/Q10951.md",
     "백준문제/Q10818.md",
     "백준문제/Q8393.md",
-    "백준문제/Q2522.md",
-    "백준문제/Q2446.md",
     "인프런_자바알고리즘",
     "무제 폴더"
   ]
