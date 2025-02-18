@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩문제/프로그래머스/상담원 인원.md",
+                "file": "코딩문제/프로그래머스/귤 고르기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "상담원 인원"
+              "title": "귤 고르기"
             }
           }
         ]
@@ -179,13 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff252f171f808471",
+  "active": "af986c4ce6d6a68e",
   "lastOpenFiles": [
+    "코딩문제/프로그래머스/상담원 인원.md",
+    "코딩문제/프로그래머스/귤 고르기.md",
     "코딩문제",
     "JAVA 자료구조.md",
     "Pasted image 20250218093110.png",
     "Pasted image 20250218092045.png",
-    "코딩문제/프로그래머스/상담원 인원.md",
     "포트 충돌.md",
     "Obsidian 설정.md",
     "코딩문제/프로그래머스/인사고과.md",
